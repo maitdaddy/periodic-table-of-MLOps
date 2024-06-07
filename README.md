@@ -1,1 +1,0 @@
-# periodic-table-of-MLOps
